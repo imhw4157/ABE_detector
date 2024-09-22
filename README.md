@@ -8,6 +8,7 @@ This Python script is designed to facilitate the analysis of A-to-G conversion e
 The first line of target_list.txt includes four parameters:
 
 Minimum_frequency: Sets the minimum offset for each read.
+
 Comparison_range: Sets the indicator distance to pull matching reads.
 Indicator_range: Sets the length of the indicator.
 Window: Sets the window range displayed in the output file.
